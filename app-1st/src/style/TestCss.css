@@ -1,0 +1,13 @@
+/* component 의 이름이랑 같아야 함 */
+/* style폴더는 components 폴더랑 같은 레벨에 있어야 함 */
+
+div.component-root {
+	background-color: dodgerblue;
+}
+
+div.component-root h1 {
+	background-color: aqua;
+}
+div.component-root span {
+	background-color: aquamarine;
+}
