@@ -12,6 +12,7 @@ const AppSpin = keyframes`
 const RootDiv = styled.div`
 	text-align: center;
 `;
+
 const AppHeader = styled.header`
 	background-color: #282c34;
 	min-height: 100vh;
@@ -21,6 +22,7 @@ const AppHeader = styled.header`
 	justify-content: center;
 	font-size: calc(10px + 2vmin);
 `;
+
 const AppLogo = styled.img`
 	width: 40vmin;
 	pointer-events: none;
